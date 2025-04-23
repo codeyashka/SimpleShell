@@ -14,4 +14,4 @@ Features:
 - **I/O redirection**: `< infile`, `> outfile`  
 - **Blocking / non-blocking** (`&` suffix)  
 - **Debug mode** (`-d`): prints child PID & command before execution  
-- **Custom parser** with support for pipelines (via `LineParser.h` / `LineParser.c`) :contentReference[oaicite:0]{index=0}
+- **Custom parser** with support for pipelines (via `LineParser.h` / `LineParser.c`)
